@@ -1,0 +1,10 @@
+npm install --save react react-dom
+npm install --save react-bootstrap
+npm install --save excel-to-json
+npm install --save react-native-chart-kit
+npm install --save art
+npm install --save d3
+npm install --save d3-shape
+npm install --save react-native-svg-charts
+npm install react-native-pathjs-charts --save
+react-native link react-native-svg

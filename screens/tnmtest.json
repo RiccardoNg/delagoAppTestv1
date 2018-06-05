@@ -1,0 +1,144 @@
+﻿{ 
+  "movies": [
+	{
+		"caseid": "1",
+		"T": "Tis",
+		"N": "N0",
+		"M": "M0",
+		"Stage": "Stage 0"
+	},
+	{
+		"caseid": "2",
+		"T": "T1a",
+		"N": "N0",
+		"M": "M0",
+		"Stage": "Stage IA"
+	},
+	{
+		"caseid": "3",
+		"T": "T1b",
+		"N": "N0",
+		"M": "M0",
+		"Stage": "Stage IA"
+	},
+	{
+		"caseid": "4",
+		"T": "T2a",
+		"N": "N0",
+		"M": "M0",
+		"Stage": "Stage IB"
+	},
+	{
+		"caseid": "5",
+		"T": "T1a",
+		"N": "N1",
+		"M": "M0",
+		"Stage": "Stage IIA"
+	},
+	{
+		"caseid": "6",
+		"T": "T1b",
+		"N": "N1",
+		"M": "M0",
+		"Stage": "Stage IIA"
+	},
+	{
+		"caseid": "7",
+		"T": "T2a",
+		"N": "N1",
+		"M": "M0",
+		"Stage": "Stage IIA"
+	},
+	{
+		"caseid": "8",
+		"T": "T2b",
+		"N": "N0",
+		"M": "M0",
+		"Stage": "Stage IIA"
+	},
+	{
+		"caseid": "9",
+		"T": "T2b",
+		"N": "N1",
+		"M": "M0",
+		"Stage": "Stage IIB"
+	},
+	{
+		"caseid": "10",
+		"T": "T3",
+		"N": "N0",
+		"M": "M0",
+		"Stage": "Stage IIB"
+	},
+	{
+		"caseid": "11",
+		"T": "T1",
+		"N": "N2",
+		"M": "M0",
+		"Stage": "Stage IIIA"
+	},
+	{
+		"caseid": "12",
+		"T": "T2",
+		"N": "N2",
+		"M": "M0",
+		"Stage": "Stage IIIA"
+	},
+	{
+		"caseid": "13",
+		"T": "T3",
+		"N": "N1",
+		"M": "M0",
+		"Stage": "Stage IIIA"
+	},
+	{
+		"caseid": "14",
+		"T": "T3",
+		"N": "N2",
+		"M": "M0",
+		"Stage": "Stage IIIA"
+	},
+	{
+		"caseid": "15",
+		"T": "T4",
+		"N": "N0",
+		"M": "M0",
+		"Stage": "Stage IIIA"
+	},
+	{
+		"caseid": "16",
+		"T": "T4",
+		"N": "N1",
+		"M": "M0",
+		"Stage": "Stage IIIA"
+	},
+	{
+		"caseid": "17",
+		"T": "T4",
+		"N": "N2",
+		"M": "M0",
+		"Stage": "Stage IIIB"
+	},
+	{
+		"caseid": "18",
+		"T": "TT",
+		"N": "N3",
+		"M": "M0",
+		"Stage": "Stage IIIB"
+	},
+	{
+		"caseid": "19",
+		"T": "TT",
+		"N": "NN",
+		"M": "M1a",
+		"Stage": "Stage IV"
+	},
+	{
+		"caseid": "20",
+		"T": "TT",
+		"N": "NN",
+		"M": "M1b",
+		"Stage": "Stage IV"
+	}
+  ]
+}
